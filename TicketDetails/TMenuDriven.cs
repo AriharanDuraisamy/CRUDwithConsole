@@ -58,7 +58,6 @@ namespace TicketDetails
                             {
                                 Console.WriteLine($"{p.PASSENGERID}\t{p.TICKETNUMBER}\t{p.PASSENGERNAME}\t{p.PHNUMBER}\t{p.EMAILID}\t{p.JOURNEYDATE}");
                             }
-
                         }
                         break;
                     //delete
